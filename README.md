@@ -59,8 +59,8 @@ This is a Laravel-based subscription management system that allows users to regi
     DB_USERNAME=your_username
     DB_PASSWORD=your_password
     
-    STRIPE_SECRET_KEY=your_stripe_secret_key
-    STRIPE_WEBHOOK_KEY=your_stripe_webhook_secret
+    STRIPE_SECRET_KEY=sk_test_51IZ4h3DAuvR6KSdrAtEE0IhiMONzHhrlITaj6jmAxzcUtMmRIz5mSFsETrkW8KClj07t04zppJxl5fBDaydRLMOB00h7PKeKoH
+    STRIPE_WEBHOOK_KEY=whsec_52e71097d011276a2fff16df12ae34fe936cd04091becd422eed85eed266c9d8
 ```
 
 6. Run Migrations & seeder
